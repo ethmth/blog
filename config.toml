@@ -1,0 +1,6 @@
+baseURL = 'https://blog.ethanmt.com/'
+languageCode = 'en-us'
+title = "Ethan's Blog"
+theme = "PaperMod"
+
+hideFooter = true
