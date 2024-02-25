@@ -1,0 +1,15 @@
+baseURL: "https://blog.ethanmt.com/"
+languageCode: "en-us"
+title: "Ethan's Blog"
+theme: "PaperMod"
+
+menu:
+  main:
+    - identifier: website
+      name: Personal Website
+      url: https://ethanmt.com/
+      weight: 30
+    - identifier: darth_vader_demo
+      name: Darth Vader Demo
+      url: https://sound.ethanmt.com/hw3/
+      weight: 40
