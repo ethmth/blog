@@ -13,10 +13,11 @@ Inspired by the sounds in Andy Farnell's _Designing Sound_ Part IV: Practicals, 
 
 Darth Vader's breathing pattern can be split into two distinct parts: [The Inhale]({{< relref "#the-inhale" >}}) and [The Exhale]({{< relref "#the-exhale" >}}). Let's start with the inhale.
 
-
+![Frequency Diagram for Inhale](/images/vader_inhale1.png)
 
 ## The Exhale {#the-exhale}
 
+![Frequency Diagram for Exhale](/images/vader_exhale1.png)
 
 
 
