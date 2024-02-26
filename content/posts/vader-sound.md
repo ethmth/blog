@@ -9,6 +9,15 @@ Inspired by the sounds in Andy Farnell's _Designing Sound_ Part IV: Practicals, 
 
 **Experience the final result [here](https://sound.ethanmt.com/hw3/).**
 
-## The Inhale
+## The Inhale {#the-inhale}
 
-Darth Vader's breathing pattern can be split into two distinct parts: The Inhale and The Exhale (Add links to these)
+Darth Vader's breathing pattern can be split into two distinct parts: [The Inhale]({{< relref "#the-inhale" >}}) and [The Exhale]({{< relref "#the-exhale" >}}). Let's start with the inhale.
+
+
+
+## The Exhale {#the-exhale}
+
+
+
+
+## The March {#the-march}
