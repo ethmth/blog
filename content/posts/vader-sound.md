@@ -22,3 +22,17 @@ Darth Vader's breathing pattern can be split into two distinct parts: [The Inhal
 
 
 ## The March {#the-march}
+
+
+
+### Citations {#citations}
+
+Partner for in-class "Babbling Brook" activity: Yara Studer
+
+Computational Sound Course Website: [https://www.marksantolucito.com/COMS3430/spring2024/](https://www.marksantolucito.com/COMS3430/spring2024/)
+
+Darth Vader 3D Model: [https://cults3d.com/en/3d-model/various/star-wars-darth-vader-3d-print](https://cults3d.com/en/3d-model/various/star-wars-darth-vader-3d-print)
+
+Tennis Sound Effect for Impulse: [https://www.youtube.com/watch?v=KOMtMxqrKqU](https://www.youtube.com/watch?v=KOMtMxqrKqU)
+
+Darth Vader Breathing Sound Effect: [https://www.youtube.com/watch?v=Nn6QWRmCPuY](https://www.youtube.com/watch?v=Nn6QWRmCPuY)
